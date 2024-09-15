@@ -2,9 +2,9 @@
 
 Este repositório contém exemplos e anotações sobre o estudo do **Spring Framework** e **Spring Boot**, duas ferramentas essenciais para o desenvolvimento de aplicações Java.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9705bdff-b786-4a16-bd2c-498ea325cc12" alt="Spring_Boot svg" width="100"/>
-  <img src="https://github.com/user-attachments/assets/1c9c584c-1d92-43e5-ad41-6389bafd28b3" width="100"/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/9705bdff-b786-4a16-bd2c-498ea325cc12" alt="Spring_Boot svg" width="50"/>
+  <img src="https://github.com/user-attachments/assets/1c9c584c-1d92-43e5-ad41-6389bafd28b3" width="50"/>
 </p>
 
 
@@ -90,9 +90,13 @@ Essas dependências podem ser adicionadas ao arquivo `pom.xml` (se você estiver
 
 OBS: Com o uso de `@RestController`, estamos focando na criação de APIs que lidam apenas com a lógica e a conexão com o banco de dados, retornando respostas em JSON ou XML, sem a necessidade de renderizar páginas HTML (responsabilidade do frontend).
 
+## Extras 
+### Arquitetura  Spring Boot
 
-# Stateless (APIs Rest) vs Statefull
+![Spring-Boot-Workflow-Architecture-1024x614](https://github.com/user-attachments/assets/00a33542-c5c3-4b35-9055-34ffce968c36)
 
-Stateless: Cada nova requisição é enviada as informações necessárias (tokens) para fazer o que é preciso.
-Statefull: O estado do cliente é mantindo no servidor.
+### Stateless (APIs Rest) vs Stateful
+
+- **Stateless**: Em cada nova requisição, todas as informações necessárias (como tokens) são enviadas para que o servidor processe o que é necessário, sem manter qualquer estado entre as requisições.
+- **Stateful**: O estado do cliente é mantido no servidor, permitindo que informações sejam preservadas entre diferentes requisições.
 
