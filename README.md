@@ -1,12 +1,10 @@
-# Estudando Java Spring
+<h1 align="left">
+  Estudando Java Spring
+  <img src="https://github.com/user-attachments/assets/9705bdff-b786-4a16-bd2c-498ea325cc12" alt="Spring_Boot svg" width="30"/>
+  <img src="https://github.com/user-attachments/assets/1c9c584c-1d92-43e5-ad41-6389bafd28b3" width="30"/>
+</h1>
 
 Este repositório contém exemplos e anotações sobre o estudo do **Spring Framework** e **Spring Boot**, duas ferramentas essenciais para o desenvolvimento de aplicações Java.
-
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/9705bdff-b786-4a16-bd2c-498ea325cc12" alt="Spring_Boot svg" width="50"/>
-  <img src="https://github.com/user-attachments/assets/1c9c584c-1d92-43e5-ad41-6389bafd28b3" width="50"/>
-</p>
-
 
 ## Spring vs Spring Boot
 
