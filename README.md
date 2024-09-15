@@ -2,6 +2,8 @@
 
 Este repositório contém exemplos e anotações sobre o estudo do **Spring Framework** e **Spring Boot**, duas ferramentas essenciais para o desenvolvimento de aplicações Java.
 
+![Spring_Boot svg](https://github.com/user-attachments/assets/9705bdff-b786-4a16-bd2c-498ea325cc12)
+
 ## Spring vs Spring Boot
 
 - **Spring** é um _framework_ que fornece um modelo abrangente para o desenvolvimento de aplicações Java.
