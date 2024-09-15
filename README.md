@@ -3,8 +3,8 @@
 Este repositório contém exemplos e anotações sobre o estudo do **Spring Framework** e **Spring Boot**, duas ferramentas essenciais para o desenvolvimento de aplicações Java.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9705bdff-b786-4a16-bd2c-498ea325cc12" alt="Spring_Boot svg" width="200"/>
-  <img src="https://github.com/user-attachments/assets/1c9c584c-1d92-43e5-ad41-6389bafd28b3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/9705bdff-b786-4a16-bd2c-498ea325cc12" alt="Spring_Boot svg" width="100"/>
+  <img src="https://github.com/user-attachments/assets/1c9c584c-1d92-43e5-ad41-6389bafd28b3" width="100"/>
 </p>
 
 
